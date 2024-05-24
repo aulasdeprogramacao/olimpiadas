@@ -10,7 +10,7 @@ A ideia dessa atividade é criar uma página HTML utilizando recursos de formata
 2.    Jogos Paralímpicos de Verão 2024
 
            fonte de consulta: https://olympics.com/pt/paris-2024/os-jogos/jogos-olimpicos-paralimpicos/jogos-paralimpicos
-           fonte de consulta: https://www.paralympic.org/es
+           fonte de consulta: https://www.paralympic.org/pt
 
 3.    Jogos Olímpicos de Inverno 2026
 
