@@ -5,7 +5,7 @@ A ideia dessa atividade é criar uma página HTML utilizando recursos de formata
 1.    Jogos Olímpicos de Verão 2024
 
            fonte de consulta: https://olympics.com/pt/paris-2024/esportes
-           fonte de consulta: https://olympics.com/pt/
+           fonte de consulta: https://olympics.com/pt/ 
 
 2.    Jogos Paralímpicos de Verão 2024
 
