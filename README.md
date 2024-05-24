@@ -1,4 +1,4 @@
-# olimpiadas
+# Olimpíadas
 
 A ideia dessa atividade é criar uma página HTML utilizando recursos de formatação CSS para apresentar  informações dos esportes disputados nos eventos descritos abaixo:
 
